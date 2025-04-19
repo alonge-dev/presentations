@@ -1,0 +1,20 @@
+{
+  "name": "cpu-cores--threads-and-gpus",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/arcticons": "^1.2.23",
+    "@slidev/cli": "^51.5.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
